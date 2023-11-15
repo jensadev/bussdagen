@@ -14,8 +14,18 @@ Vill du prova annat, hitta en guide och följ den.
 
 Klona det här repot.
 * Logga in på github.
-* 
+* Gå till https://github.com/jensadev/bussdagen
+* Klicka på knappen `Code` och kopiera länken.
+* Klona projektet med Visual studio code.
+  * Öppna Visual studio code.
+  * Klicka på `Source Control` (den med en git ikon).
+  * Klicka på `Clone Repository`.
+  * Klistra in länken.
+  * Välj en mapp att spara i.
+
 Jobba med `index.html`, `style.css` och `script.js`.
+
+Titta på sidan i webbläsaren med `Live server` extension. Installera och klicka på `Go Live` i statusbaren.
 
 I index finns det en grundläggande layout, en knapp och en bild.
 * Byt bild, lägg in en ny i `images` mappen och ändra sökvägen i index.
