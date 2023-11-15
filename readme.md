@@ -45,5 +45,6 @@ I index finns det en grundläggande layout, en knapp och en bild.
 
   När ni jobbat med sidan ett tag så kan ni prova på att hosta den på GitHub. Gör en `commit` med ert arbete i vscode, välj sedan att `pusha` materialet till GitHub.
   Ni kan sedan gå in under settings på repot och slå på GitHub pages.
-  
-  ![GitHub inställningar](Screenshot 2023-11-16 091136.png)
+
+![GitHub pages](Screenshot2023-11-16091136.png)
+
