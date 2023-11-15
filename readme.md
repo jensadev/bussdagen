@@ -1,5 +1,7 @@
 # Microbit
 
+![Microbit](86e5da4fed89ce6729b522e6e8a8f12c88a2d7f1-790x635.webp)
+
 Vad är en Microbit? Ett litet kretskort med en massa sensorer och en display.
 * https://microbit.org/get-started/what-is-the-microbit/#computing-made-physical
 
@@ -9,6 +11,12 @@ Du kan skriva kod i block, i javascript eller i python.
 
 Har du aldrig kodat förut, gör ett blinkande hjärta!
 Vill du prova annat, hitta en guide och följ den.
+
+De flesta programmen har någon form av loop, som gör att programmet körs om och om igen. Det kan vara det block som heter `forever`, som gör att loopen körs för alltid. Eller så kan det vara en `while` loop som körs så länge ett villkor är sant. Eller så kan det vara en `for` loop som körs ett visst antal gånger.
+
+Ofta så startas koden från någon form av input. Microbit hanterar ett antal olika input, som knappar, sensorer, bluetooth, radio, etc. Det finns block för att hantera dessa.
+
+Så testa någon form av input och låt Microbiten reagera på detta. Microbiten kan då visa grafik på sin display, spela ljud, styra något annat, etc.
 
 # Webb
 
