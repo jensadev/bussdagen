@@ -42,3 +42,7 @@ I index finns det en grundläggande layout, en knapp och en bild.
 * Byt till ett annat typsnitt från google fonts, lägg in den i `index.html` och ändra i `style.css`.
   * https://fonts.google.com/
 * Lägg till en knapp till, testa att ändra funktionen i `script.js`.
+
+  När ni jobbat med sidan ett tag så kan ni prova på att hosta den på GitHub. Gör en `commit` med ert arbete i vscode, välj sedan att `pusha` materialet till GitHub.
+  Ni kan sedan gå in under settings på repot och slå på GitHub pages.
+  ![Settings](Screenshot 2023-11-16 091136.png)
